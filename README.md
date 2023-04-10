@@ -77,31 +77,31 @@
     - 사용 데이터 유저 수 : 412822
     - 사용 데이터 보드게임 리뷰 수 : 18964366
   - SVD 추천 방식을 통해 예상 평점을 계산
-  - ![svd](/uploads/d81405ac66a3dd9d4d42d71438399935/svd.png)
+  - ![svd](https://user-images.githubusercontent.com/37263174/230808128-236b242f-7ac5-4e99-b010-989349c49629.png)
   - 예상 평점 높은 순으로 유저에게 추천
-  - ![종합추천](/uploads/d494da48d50a7e03ace63b43df1fcd49/종합추천.gif)
+  - ![종합추천](https://user-images.githubusercontent.com/37263174/230807868-03384223-6628-4d9c-8fca-000ee793b6f7.gif)
 <br>
 
 - 지역별 예약 인원 모집 게시판
   - 지역 설정 시/군/구 3단계로 설정
   - 위치를 지정해 방(게시판) 생성, 댓글 작성
-  - ![지역조회](/uploads/0cef16695c69445f5bf21fcdafbf20e7/지역조회.gif)
+  - ![지역조회](https://user-images.githubusercontent.com/37263174/230807869-9025b9a2-4ade-4bc6-8e05-228b0a535130.gif)
   - 설정된 지역의 거리 순으로 인원 모집 방 확인
-  - ![방조회](/uploads/5cc49fb3b49e4cae2c08f5c0b1d303f6/방조회.gif)
+  - ![방조회](https://user-images.githubusercontent.com/37263174/230807865-cc9c5cdd-413a-4f02-8591-31242ed37efd.gif)
   - 방 생성
-  - ![방만들기](/uploads/70de3871bcba30f0fadc57f7d51259e2/방만들기.gif)  
+  - ![방만들기](https://user-images.githubusercontent.com/37263174/230807863-df84ee46-ceaf-411e-bc19-efe10b84860d.gif)  
   
 - 보드 게임 조건 조회
   - 플레이 타임, 인원 수, 난이도, 평점, 장르
-  - ![검색](/uploads/7deec5c77814363687a01050e30a0121/검색.gif)
+  - ![검색](https://user-images.githubusercontent.com/37263174/230807853-cdd74d2b-f271-469a-a4e2-71287772dce1.gif)
 
 - 보드 게임 상세 조회
   - 보드 게임 정보, 리뷰 확인 및 작성
-  - ![상세조회](/uploads/6f0a38b864cb766b35318662093d8ba4/상세조회.gif)
+  - ![상세조회](https://user-images.githubusercontent.com/37263174/230807866-25e5618a-3d33-46c0-b32a-a72f9c34f980.gif)
 
 - 마이 페이지
   - 유저별 정보 확인 가능 : 최근 플레이 게임, 즐겨 찾기 등
-  - ![마이페이지](/uploads/0b63546cd7d0a80f465964908b8c6f5e/마이페이지.gif)
+  - ![마이페이지](https://user-images.githubusercontent.com/37263174/230807860-38711507-973d-473a-a353-39e45662014a.gif)
 
 - 친구 관리
   - 팔로잉, 팔로워 관계 맺기
@@ -117,7 +117,7 @@
 # 💁개발 방식 및 결과
 ## 🧱 서비스 아키텍처
 
-![서비스아키텍처](/uploads/2134a6163091890cb80c6fab6d7728c3/서비스아키텍처.png)
+![서비스아키텍처](https://user-images.githubusercontent.com/37263174/230808273-cd5cf325-85c4-411a-8c95-1e773cab68eb.png)
 
 <br>
 
@@ -141,22 +141,22 @@
 
 
 ## 🎩 화면 설계서
-![와이어프레임](/uploads/d65b9a8ba54ae80f2ff7f7ffcfcbef03/와이어프레임.PNG)
+![와이어프레임](https://user-images.githubusercontent.com/37263174/230808277-4000e47f-bae4-4deb-8c4b-c1259c9447ef.PNG)
 
 ## 🎨 DB ERD
-![DB_ERD](/uploads/b08c8d7082499b4c855a8125d536ac31/DB_ERD.PNG)
+![DB ERD](https://user-images.githubusercontent.com/37263174/230808266-3bdb9b79-c63e-46cd-a45b-e88fa038b8cf.PNG)
 
 ## 📬 API 명세서
 
-![api_명세서](/uploads/c2bf06b3fda88ef5d43c700bf34fc289/api_명세서.PNG)
+![api 명세서](https://user-images.githubusercontent.com/37263174/230808261-4d39e0e7-d73c-4529-b3cc-370a809ac7b3.PNG)
 
 ### 🌄 JIRA 컨벤션
 
-![jira](/uploads/4e81e68833652c76c7f49d731fcc7c79/jira.PNG)
+![jira](https://user-images.githubusercontent.com/37263174/230808270-4235eee4-6c3b-4fb9-b978-744176275500.PNG)
 
 - 번 다운 차트
 
-![jira](/uploads/a7e1204c1d2749caabfdbc55c426dfdc/jira.gif)
+![jira](https://user-images.githubusercontent.com/37263174/230808269-ade12d66-fddb-4862-aa9e-d9100abb491d.gif)
 
 ---
 # 🎲Billboard
